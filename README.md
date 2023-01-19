@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)]
+[![Header](https://github.com/ViacheslavQApro/ViacheslavQApro/blob/main/assets/Frame%20635%20(3).png)]
 ## I'm a QA Engineer.
 ## My CV
 [Link to my CV](https://hh.ru/resume/14505b60ff0b4c4b8f0039ed1f716f44683762)
