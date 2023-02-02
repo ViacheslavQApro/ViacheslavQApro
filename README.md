@@ -18,7 +18,7 @@
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - :white_check_mark: [SQL Queries](https://github.com/ViacheslavQApro/sql)
-- [Postman Collections](https://github.com/ViacheslavQApro/postman)
+- :white_check_mark: [Postman Collections](https://github.com/ViacheslavQApro/postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/vsyomogoo/)
