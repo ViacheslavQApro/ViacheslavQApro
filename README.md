@@ -14,8 +14,8 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/ViacheslavQApro/check_list)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Checklists](https://github.com/ViacheslavQApro/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/ViacheslavQApro/Test-Suites_and_Test-Cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - :white_check_mark: [SQL Queries](https://github.com/ViacheslavQApro/sql)
 - :white_check_mark: [Postman Collections](https://github.com/ViacheslavQApro/postman)
