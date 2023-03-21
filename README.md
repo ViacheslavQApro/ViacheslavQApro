@@ -14,6 +14,7 @@
 
 ### Testing Documentation
 
+- :white_check_mark: [Bug-Reports](https://github.com/ViacheslavQApro/Bug-Reports)
 - :white_check_mark: [Checklists](https://github.com/ViacheslavQApro/Checklists)
 - :white_check_mark: [SQL Queries](https://github.com/ViacheslavQApro/sql)
 - :white_check_mark: [Postman Collections](https://github.com/ViacheslavQApro/postman)
@@ -24,3 +25,5 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/viachaslau-zhurauliou/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViacheslavQApro&show_icons=true&theme=cobalt)
+
+
